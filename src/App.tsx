@@ -1,6 +1,7 @@
 import './App.css';
 import ButtonEventTypeIndex from './buttonEventType/ButtonEventTypeIndex';
 import InputEventTypeIndex from './inputEventType/InputEventTypeIndex';
+import PasscomponetDataType from './passComponetToOtherComponet/PasscomponetDataType';
 import PropsDataTypeIndex from './propsDataType/PropsDataTypeIndex';
 import Styleindex from './style/Styleindex';
 
@@ -10,7 +11,8 @@ function App() {
       {/* <PropsDataTypeIndex/> */}
       {/* <ButtonEventTypeIndex/> */}
       {/* <InputEventTypeIndex/>  */}
-      <Styleindex/>
+      {/* <Styleindex/> */}
+      <PasscomponetDataType/>
     </div>
   );
 }
