@@ -6,9 +6,9 @@ import PropsDataTypeIndex from './propsDataType/PropsDataTypeIndex';
 function App() {
   return (
     <div className="App">
-      <PropsDataTypeIndex/>
-      {/* <ButtonEventTypeIndex/>
-      <InputEventTypeIndex/> */}
+      {/* <PropsDataTypeIndex/> */}
+      {/* <ButtonEventTypeIndex/> */}
+      <InputEventTypeIndex/> 
     </div>
   );
 }
